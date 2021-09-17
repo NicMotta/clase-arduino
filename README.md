@@ -9,8 +9,10 @@ Arduino también cuenta con su propio IDE (siglas de Entorno de Desarrollo Integ
 
 Un micro-controlador es una especie de computadora con objetivos mucho más específicos, se encargan de procesar toda la información que ingresa a Arduino.
 
-Cuenta con CPU, Memoria (EEPROM y SRAM) reloj de sistema y periféricos (entrada y salida de datos a través de pines).
+Cuenta con CPU, Memoria, reloj de sistema y periféricos (entrada y salida de datos a través de pines).
 
 Los micro-controladores están en todas partes, se utilizan en lavadoras, pantallas inteligentes, maquinas de correr, cámaras, neveras, etc.
 
 Existen otras placas como: Arduino Leonardo, Arduino Nano, Arduino Mega, Arduino Micro, entre otros, varian las funciones y tamaños.
+
+## Sensores
